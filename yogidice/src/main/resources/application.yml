@@ -1,0 +1,67 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /api
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+#swagger
+springfox:
+  documentation:
+    swagger:
+      v2:
+        use-model-v3: false
+
+#database
+spring:
+  jpa:
+    hibernate:
+      naming:
+        implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
+        physical-strategy: org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL57Dialect
+        show_sql: true
+
+  data:
+    web:
+      pageable:
+        one-indexed-parameters: true
+
+  datasource:
+    url: jdbc:mysql://j7b206.p.ssafy.io/yogidice?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&zeroDateTimeBehavior=convertToNull&rewriteBatchedStatements=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      username: yogidice
+      password: 9x9sns99
+
+  # swagger 설정
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+token:
+  # 하루
+  expiration_time: 1296000000
+  secret: yogidiceSecretCode
+
+api-key:
+  kakao-rest-api: fdf8fb4eb465a2089f30d579060f8ed7
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+        type:
+          descriptor:
+            sql:
+              BasicBinder: TRACE
+    com:
+      amazonaws:
+        util:
+          EC2MetadataUtils: error
