@@ -1,0 +1,191 @@
+﻿연기,Acting,파티,6
+액션 드래프팅,Action Drafting,조건,4
+액션 포인트,Action Points,조건,4
+작업 대기열,Action Queue,조건,4
+작업 검색,Action Retrieval,조건,4
+액션 타이머,Action Timer,조건,4
+액션/이벤트,Action/Event,조건,4
+어드밴티지 토큰,Advantage Token,조건,4
+동맹,Alliances,전략,3
+지역 과반수/영향력,Area Majority / Influence,말,2
+영역 이동,Area Movement,말,2
+지역 내 충돌,Area-Impulse,조건,4
+경매 보상,Auction Compensation,경제,1
+경매/입찰,Auction/Bidding,전략,3
+경매: 손재주,Auction: Dexterity,경제,1
+경매: 네덜란드식,Auction: Dutch,경제,1
+경매: 네덜란드식 우선 순위,Auction: Dutch Priority,경제,1
+경매: 영국식,Auction: English,경제,1
+경매: 고정 배치,Auction: Fixed Placement,경제,1
+경매: 한바퀴,Auction: Once Around,경제,1
+경매: 비밀 입찰,Auction: Sealed Bid,경제,1
+경매: 입찰 포기 전까지 차례 순서대로 입찰,Auction: Turn Order Until Pass,경제,1
+자동적인 자원 증가,Automatic Resource Growth,조건,4
+베팅 및 블러핑,Betting and Bluffing,전략,3
+편향,Bias,조건,4
+내기로 입찰,Bids As Wagers,경제,1
+빙고,Bingo,추리카드퍼즐,5
+뇌물,Bribery,전략,3
+캠페인/배틀 카드 주도,Campaign / Battle Card Driven,전략,3
+카드 플레이 분쟁 해결,Card Play Conflict Resolution,조건,4
+리더를 잡아라,Catch the Leader,전략,3
+체이닝,Chaining,말,2
+치트 뽑기 시스템,Chit-Pull System,전략,3
+비공개 제도,Closed Drafting,조건,4
+폐쇄 경제 경매,Closed Economy Auction,경제,1
+커맨드 카드,Command Cards,조건,4
+상품 투기,Commodity Speculation,경제,1
+통신 제한,Communication Limits,전략,3
+연결,Connections,파티,6
+제한된 입찰,Constrained Bidding,경제,1
+계약,Contracts,조건,4
+협동 게임,Cooperative Game,전략,3
+크레용 레일 시스템,Crayon Rail System,말,2
+치명타 및 실패,Critical Hits and Failures,조건,4
+큐브 타워,Cube Tower,조건,4
+덱 구성,Deck Construction,추리카드퍼즐,5
+"덱, 백, 풀 빌딩","Deck, Bag, and Pool Building",추리카드퍼즐,5
+추리,Deduction,추리카드퍼즐,5
+지연된 구매,Delayed Purchase,경제,1
+주사위 굴리기,Dice Rolling,말,2
+다이 아이콘 해상도,Die Icon Resolution,말,2
+다른 주사위 움직임,Different Dice Movement,말,2
+그림,Drawing,파티,6
+실시간 경과 후 종료,Elapsed Real Time Ending,파티,6
+감싸기,Enclosure,추리카드퍼즐,5
+게임 종료 보너스,End Game Bonuses,파티,6
+이벤트,Events,조건,4
+피날레 엔딩,Finale Ending,파티,6
+플리킹,Flicking,파티,6
+후속 행동,Follow,파티,6
+병력 운용,Force Commitment,전략,3
+구획 덮기,Grid Coverage,추리카드퍼즐,5
+구획 이동,Grid Movement,말,2
+핸드 관리,Hand Management,추리카드퍼즐,5
+육각형 구획,Hexagon Grid,말,2
+숨겨진 움직임,Hidden Movement,추리카드퍼즐,5
+숨겨진 역할,Hidden Roles,추리카드퍼즐,5
+숨겨진 점수,Hidden Victory Points,추리카드퍼즐,5
+최고-최저 점수,Highest-Lowest Scoring,파티,6
+뜨거운 감자,Hot Potato,전략,3
+"내가 나누고, 당신이 선택","I Cut, You Choose",조건,4
+충돌 운동,Impulse Movement,조건,4
+수입,Income,경제,1
+선택되지 않은 자원의 가치 증대,Increase Value of Unchosen Resources,경제,1
+귀납 추론,Induction,추리카드퍼즐,5
+방해,Interrupts,전략,3
+투자,Investment,경제 ,1
+성과 훔치기,Kill Steal,전략,3
+자리 차지하기,King of the Hill,전략,3
+사다리타기,Ladder Climbing,추리카드퍼즐,5
+겹쳐 놓기,Layering,조건,4
+레거시 게임,Legacy Game,파티,6
+선 그리기,Line Drawing,추리카드퍼즐,5
+시선,Line of Sight,조건,4
+대출,Loans,경제,1
+차례 잃기,Lose a Turn,조건,4
+만칼라,Mancala,전략,3
+지도 추가,Map Addition,말,2
+지도 변형,Map Deformation,말,2
+맵 축소,Map Reduction,말,2
+시장,Market,경제,1
+맞춰서 내기,Matching,추리카드퍼즐,5
+실측 이동,Measurement Movement,말,2
+합쳐서 펼치기,Melding and Splaying,추리카드퍼즐,5
+기억,Memory,추리카드퍼즐,5
+미니맵 해결,Minimap Resolution,말,2
+모듈형 게임판,Modular Board,전략,3
+덱 파고들기,Move Through Deck,추리카드퍼즐,5
+이동 포인트,Movement Points,말,2
+이동 템플릿,Movement Template,말,2
+게임말 동시 이동,Moving Multiple Units,말,2
+다용도 카드,Multiple Maps,말,2
+다중 지도,Multiple-Lot Auction,경제 ,1
+다중 입찰 경매,Multi-Use Cards,경제,1
+서사 / 단락 선택,Narrative Choice / Paragraph,전략,3
+협상,Negotiation,전략,3
+이웃 범위,Neighbor Scope,전략,3
+네트워크 및 경로 구축,Network and Route Building,말,2
+1회용 능력,Once-Per-Game Abilities,조건,4
+오픈 드래프팅,Open Drafting,전략,3
+명령 카운터,Order Counters,말,2
+주문,Ordering,경제,1
+소유권,Ownership,전략,3
+종이와 연필,Paper-and-Pencil,파티,6
+행동 토큰 넘기기,Passed Action Token,조건,4
+패턴 구축,Pattern Building,추리카드퍼즐,5
+패턴 이동,Pattern Movement,추리카드퍼즐,5
+패턴 인식,Pattern Recognition,추리카드퍼즐,5
+물리적 제거,Physical Removal,파티,6
+수령과 배달,Pick-up and Deliver,말,2
+지도 조각,Pieces as Map,추리카드퍼즐,5
+플레이어 탈락,Player Elimination,추리카드퍼즐,5
+플레이어 심판,Player Judge,파티,6
+지점 이동,Point to Point Movement,말,2
+예측 입찰,Predictive Bid,추리카드퍼즐,5
+죄수의 딜레마,Prisoner's Dilemma,전략,3
+프로그래밍된 움직임,Programmed Movement,조건,4
+행운을 빕니다,Push Your Luck,파티,6
+질문과 답변,Questions and Answers,파티,6
+경주,Race,말,2
+랜덤 생산,Random Production,조건,4
+비율 / 전투 결과 표,Ratio / Combat Results Table,조건,4
+재굴림과 잠금,Real-Time,파티,6
+실시간,Relative Movement,말,2
+상대 이동,Re-rolling and Locking,조건,4
+리소스 대기열,Resource Queue,경제,1
+자원 소모 이동,Resource to Move,파티,6
+가위 바위 보,Rock-Paper-Scissors,전략,3
+역할 놀이,Role Playing,전략,3
+비대칭 역할 정보,Roles with Asymmetric Information,전략,3
+롤 / 스핀 및 이동,Roll / Spin and Move,말,2
+론델,Rondel,조건,4
+시나리오 / 미션 / 캠페인 게임,Scenario / Mission / Campaign Game,추리카드퍼즐,5
+다회 점수 합산 게임,Score-and-Reset Game,파티,6
+비밀 유닛 배치,Secret Unit Deployment,전략,3
+선택 순서 입찰,Selection Order Bid,경제,1
+준협동 게임,Semi-Cooperative Game,전략,3
+세트 컬렉션,Set Collection,추리카드퍼즐,5
+시뮬레이션,Simulation,파티,6
+동시 동작 선택,Simultaneous Action Selection,전략,3
+노래,Singing,파티,6
+단독 패배 게임,Single Loser Game,파티,6
+밀기,Slide/Push,파티,6
+1인용 게임,Solo / Solitaire Game,전략,3
+빨리 맞추기,Speed Matching,파티,6
+정사각형 그리드,Square Grid,추리카드퍼즐,5
+쌓기와 균형 잡기,Stacking and Balancing,파티,6
+수치 확인 및 해결,Stat Check Resolution,조건,4
+포획,Static Capture,말 ,2
+주식 보유,Stock Holding,경제,1
+스토리텔링,Storytelling,파티,6
+단판 승부 게임,Sudden Death Ending,파티,6
+태그,Tags,조건,4
+치고받기,Take That,전략,3
+표적 단서,Targeted Clues,추리카드퍼즐,5
+팀 기반 게임,Team-Based Game,전략,3
+기술 트리 / 기술 트랙,Tech Trees / Tech Tracks,조건,4
+3차원 이동,Three Dimensional Movement,말,2
+타일 ??배치,Tile Placement,추리카드퍼즐,5
+타임 트랙,Time Track,말,2
+트랙 이동,Track Movement,말,2
+거래,Trading,경제,1
+배신자 게임,Traitor Game,전략,3
+트릭 테이킹,Trick-taking,추리카드퍼즐,5
+주도권 싸움,Tug of War,말,2
+턴 오더: 경매,Turn Order: Auction,경제,1
+턴 오더: 클레임 조치,Turn Order: Claim Action,조건,4
+턴 오더: 패스 오더,Turn Order: Pass Order,전략,3
+턴 오더: 프로그레시브,Turn Order: Progressive,조건,4
+턴 순서: 무작위,Turn Order: Random,조건,4
+턴 순서: 역할 순서,Turn Order: Role Order,전략,3
+턴 오더: 통계 기반,Turn Order: Stat-Based,전략,3
+가변적 단계 순서,Variable Phase Order,조건,4
+가변적 플레이어 능력,Variable Player Powers,조건,4
+가변적 준비,Variable Set-up,파티,6
+승점을 자원으로 사용,Victory Points as a Resource,경제,1
+투표,Voting,전략,3
+근로자 배치,Worker Placement,조건,4
+주사위로 일꾼 배치,Worker Placement with Dice Workers,말,2
+다양한 근로자 유형 배치,"Worker Placement, Different Worker Types",말,2
+통제 구역,Zone of Control,조건,4
